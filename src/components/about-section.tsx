@@ -153,17 +153,17 @@ export function AboutSection() {
               className="text-muted-foreground leading-relaxed"
               variants={itemVariants}
             >
-              I'm Muhammad Farhan Editya, currently in my final year pursuing an
-              Informatics degree. My journey in tech began with a curiosity
-              about how systems work behind the scenes, which naturally led me
-              to backend development and data analytics.
+              I&apos;m Muhammad Farhan Editya, currently in my final year
+              pursuing an Informatics degree. My journey in tech began with a
+              curiosity about how systems work behind the scenes, which
+              naturally led me to backend development and data analytics.
             </motion.p>
             <motion.p
               className="text-muted-foreground leading-relaxed"
               variants={itemVariants}
             >
-              As a Practicum Assistant, I've had the privilege of teaching Data
-              Structures, Programming Algorithms, and Object-Oriented
+              As a Practicum Assistant, I&apos;ve had the privilege of teaching
+              Data Structures, Programming Algorithms, and Object-Oriented
               Programming. This experience has not only deepened my
               understanding of these fundamental concepts but also enhanced my
               ability to break down complex problems into manageable solutions.
@@ -172,7 +172,7 @@ export function AboutSection() {
               className="text-muted-foreground leading-relaxed"
               variants={itemVariants}
             >
-              I'm passionate about building efficient backend systems and
+              I&apos;m passionate about building efficient backend systems and
               uncovering insights from data. My goal is to contribute to
               meaningful projects where I can apply my academic knowledge and
               teaching experience to create robust, data-driven solutions.
