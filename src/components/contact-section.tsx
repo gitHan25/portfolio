@@ -154,8 +154,8 @@ export function ContactSection() {
               <CardHeader>
                 <CardTitle className="text-2xl">Send me a message</CardTitle>
                 <CardDescription>
-                  Fill out the form below and I&apos;ll get back to you as soon
-                  as possible.
+                  Fill out the form below and I'll get back to you as soon as
+                  possible.
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -259,8 +259,7 @@ export function ContactSection() {
                         exit={{ opacity: 0, y: -10 }}
                         className="text-green-600 text-sm text-center bg-green-50 dark:bg-green-900/20 p-3 rounded-lg border border-green-200 dark:border-green-800"
                       >
-                        ✅ Message sent successfully! I&apos;ll get back to you
-                        soon.
+                        ✅ Message sent successfully! I'll get back to you soon.
                       </motion.p>
                     )}
 

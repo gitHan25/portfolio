@@ -84,7 +84,7 @@ export function HeroSection() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <p className="text-xl sm:text-2xl lg:text-3xl text-muted-foreground">
-              I&apos;m a{" "}
+              I'm a{" "}
               <TypingAnimation
                 words={roles}
                 className="text-primary font-semibold"
