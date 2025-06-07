@@ -106,7 +106,7 @@ export function ContactSection() {
 
       setSubmitStatus("success");
       setFormData({ name: "", email: "", message: "" });
-    } catch (_error) {
+    } catch {
       setSubmitStatus("error");
     } finally {
       setIsSubmitting(false);
